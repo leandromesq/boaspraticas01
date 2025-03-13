@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Itens
+comment1.params=nome\ preco
+comment1.target=Itens(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getPreco()
+numComments=4
